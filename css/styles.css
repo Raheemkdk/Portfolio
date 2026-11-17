@@ -3975,6 +3975,10 @@ td:last-child {
     vertical-align: bottom;
     transition    : all 0.3s ease-in-out;
     margin        : 0;
+    aspect-ratio: 1/ 1;
+    object-fit: cover;
+    /* height: auto;
+    width:100px; */
 }
 
 .folio-entries .entry__link::before {
