@@ -1,5 +1,7 @@
 Welcome to my personal portfolio! This website showcases my web development projects, technical skills, and experience as a developer.
 
+images/portfolioPic.png
+
 ## About Me
 
 Hi, I'm **Raheem**, a passionate web developer who enjoys building responsive, interactive, and user-friendly websites.
