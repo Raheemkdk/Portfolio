@@ -1,6 +1,6 @@
 Welcome to my personal portfolio! This website showcases my web development projects, technical skills, and experience as a developer.
 
-(.images/portfolioPic.png)
+(./images/portfolioPic.png)
 
 ## About Me
 
